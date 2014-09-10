@@ -1,0 +1,3 @@
+/.agignore
+/Dockerfile
+/boot2docker.iso
